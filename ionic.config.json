@@ -1,0 +1,8 @@
+{
+  "name": "DeseosApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "6ed49ea9"
+}
